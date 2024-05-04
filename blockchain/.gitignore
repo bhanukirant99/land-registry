@@ -1,0 +1,5 @@
+/node_modules
+/abis
+package-lock.json
+.env
+**/LandRegistry.json
